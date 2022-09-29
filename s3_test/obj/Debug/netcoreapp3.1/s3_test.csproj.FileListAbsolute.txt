@@ -1,0 +1,16 @@
+C:\Users\aldav\Documents\C#\s3_test\bin\Debug\netcoreapp3.1\s3_test.exe
+C:\Users\aldav\Documents\C#\s3_test\bin\Debug\netcoreapp3.1\s3_test.deps.json
+C:\Users\aldav\Documents\C#\s3_test\bin\Debug\netcoreapp3.1\s3_test.runtimeconfig.json
+C:\Users\aldav\Documents\C#\s3_test\bin\Debug\netcoreapp3.1\s3_test.runtimeconfig.dev.json
+C:\Users\aldav\Documents\C#\s3_test\bin\Debug\netcoreapp3.1\s3_test.dll
+C:\Users\aldav\Documents\C#\s3_test\bin\Debug\netcoreapp3.1\s3_test.pdb
+C:\Users\aldav\Documents\C#\s3_test\obj\Debug\netcoreapp3.1\s3_test.csprojAssemblyReference.cache
+C:\Users\aldav\Documents\C#\s3_test\obj\Debug\netcoreapp3.1\s3_test.AssemblyInfoInputs.cache
+C:\Users\aldav\Documents\C#\s3_test\obj\Debug\netcoreapp3.1\s3_test.AssemblyInfo.cs
+C:\Users\aldav\Documents\C#\s3_test\obj\Debug\netcoreapp3.1\s3_test.csproj.CoreCompileInputs.cache
+C:\Users\aldav\Documents\C#\s3_test\obj\Debug\netcoreapp3.1\s3_test.dll
+C:\Users\aldav\Documents\C#\s3_test\obj\Debug\netcoreapp3.1\s3_test.pdb
+C:\Users\aldav\Documents\C#\s3_test\obj\Debug\netcoreapp3.1\s3_test.genruntimeconfig.cache
+C:\Users\aldav\Documents\C#\s3_test\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+C:\Users\aldav\Documents\C#\s3_test\bin\Debug\netcoreapp3.1\AWSSDK.S3.dll
+C:\Users\aldav\Documents\C#\s3_test\obj\Debug\netcoreapp3.1\s3_test.csproj.CopyComplete

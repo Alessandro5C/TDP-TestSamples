@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kvc/OLhejllwHvllk1utIR0gFfWSG2jbuhWXnljL30lE8UlCXh1KeJiseFxLWTIcfoqOH71fTBDA8jY7ghZ4lA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aldav\\Documents\\C#\\s3_cp_mv_obj\\s3_cp_mv_obj.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aldav\\.nuget\\packages\\awssdk.core\\3.7.13.12\\awssdk.core.3.7.13.12.nupkg.sha512",
+    "C:\\Users\\aldav\\.nuget\\packages\\awssdk.s3\\3.7.9.61\\awssdk.s3.3.7.9.61.nupkg.sha512"
+  ],
+  "logs": []
+}
