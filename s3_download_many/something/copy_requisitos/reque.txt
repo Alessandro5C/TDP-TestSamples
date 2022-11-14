@@ -1,0 +1,24 @@
+#include <CppSpec/CppSpec.h>
+#include <cucumber-cpp/defs.hpp>
+
+class LinkCE {
+private:
+	string username;
+	Link();
+public: 
+	LinkCE(string n);
+	~LinkCE();
+	ShowWayToLink();			
+}
+
+using cucumber::ScenarioScope;
+
+GIVEN("^Existe class LinkCE") {}
+WHEN ("^Yo compro algo") {
+	ShowWayToLink();
+	LinkCE *NewUser = new LinkCE("alberto@gmail.com")
+	btnVincular.click();
+}
+THEN("^El comprobante de pago se envia al correo electrónico") {
+	SentInfoTo(NewUser->username);
+}

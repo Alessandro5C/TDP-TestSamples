@@ -1,0 +1,46 @@
+2.3.1. Empresas (Proveedores)
+
+¿Ofrecen servicio vía delivery a sus clientes? ¿Qué tan frecuente realizan el servicio delivery?
+¿Tiene lazos comerciales con alguna empresa para ofrecer el servicio delivery? ¿Con cuál? ¿Por qué?
+¿Qué tipo de productos suelen solicitarle con frecuencia en las entregas delivery?
+¿Qué tipo de productos no contemplan ser aptos para el uso del servicio de entrega vía delivery?
+¿Ha recibido quejas de sus usuarios sobre su servicio de entrega vía delivery? ¿Considera que el servicio es lo suficientemente óptimo?
+¿Te gustaría trabajar con una empresa que ofrezca servicio de entrega vía delivery mediante el uso de drones para solucionar los problemas existentes? ¿Le parece útil la idea? ¿Por qué? ¿Qué le haría cambiar de parecer?
+
+2.3.2. Amas de casa
+
+¿ Solicita con frecuencia servicio vía delivery? ¿Qué tanto?
+¿Qué tipo de productos suele solicitar con frecuencia en los deliverys?
+¿Cuál es tu empresa de delivery favorita? ¿Por qué?
+¿Hace uso de aplicaciones móviles (apps) para solicitar el servicio delivery? ¿Cuales?
+¿Existe algún tipo de producto que usted crea necesario que deba ser implementado en los servicios de entrega delivery? ¿Cuál?
+¿Se siente satisfecha con los servicios de entrega vía delivery? ¿Qué inconvenientes suele presenciar en el proceso del servicio?
+¿Calificaría la relación calidad-precio como lo adecuado?
+¿Pierde mucho tiempo realizando la compra de productos de primera necesidad? ¿Por qué cree usted que gasta tanto tiempo?
+Cuando sale de casa a comprar algo de forma presencial ¿lleva a sus hijos/hijas con usted? ¿Porque? 
+¿Aceptarías que un dron entregue el producto que has solicitado? ¿Le parece útil la idea? ¿Por qué? ¿Qué le haría cambiar de parecer?
+
+2.3.3. Persona de la tercera edad
+
+¿ Solicita con frecuencia servicio vía delivery? ¿Qué tanto?
+¿Qué tipo de productos suele solicitar con frecuencia en los deliverys?
+¿Cuál es tu empresa de delivery favorita? ¿Por qué?
+¿Realiza compras por internet constantemente? ¿Qué tipo de productos suele comprar?
+¿Hace uso de aplicaciones móviles (apps) para solicitar el servicio delivery? ¿Cuales? ¿Qué tan versátil es el app que utiliza?
+¿Existe algún tipo de producto que usted crea necesario que deba ser implementado en los servicios de entrega delivery? ¿Cuál?
+¿Se siente satisfecho con los servicios de entrega vía delivery? ¿Qué inconvenientes suele presenciar en el proceso del servicio?
+¿Considera que el tiempo de la entrega de los productos vía delivery es demasiado alto?
+Cuando sale a comprar algo ¿Se olvida lo que iba a comprar ¿Le parece agobiante esa misma acción por el olvido? 
+¿Aceptarías que un dron entregue el producto que has solicitado? ¿Le parece útil? ¿Por qué? ¿Qué le haría cambiar de parecer?
+
+2.3.4. Jóvenes que utilizan el servicio a delivery
+
+¿Realiza compras en línea o solicita con frecuencia el servicio delivery? ¿Qué tan regularmente lo hace?
+¿Qué tipo de productos suele comprar en línea? ¿Qué tipo de productos suele solicitar vía delivery?
+¿Cuál es la app de delivery favorita de usted? ¿Por qué?
+¿Existe algún tipo de producto que usted crea necesario que deba ser implementado en los servicios de entrega delivery? ¿Cuál?
+¿Se siente satisfecho con los servicios de entrega vía delivery? ¿Qué inconvenientes suele presenciar en el proceso del servicio?
+¿Le parece aceptable el tiempo en la entrega de los productos vía delivery? ¿Por qué? 
+¿Cómo calificaría usted la relación calidad-precio?
+¿Solicitarías el servicio delivery por medio de drones? ¿Le parece útil? ¿Por qué? ¿Qué le haría cambiar de parecer?
+¿Qué tan probable es que nos recomiende con amigos y familiares?	
